@@ -19,6 +19,6 @@ This repo is a comprehensive Development Guide for the #CAT20 Token Protocol: Le
 
 ## Contact info:
 
-- Telegram: Telegram: [@diasibt](https://t.me/@diasibt)
+- Telegram: [@diasibt](https://t.me/@diasibt)
 - X: [@DiasIbt101](https://x.com/DiasIbt101)
 - LinkedIn: [@dias-ishbulatov](https://www.linkedin.com/in/dias-ishbulatov/)
